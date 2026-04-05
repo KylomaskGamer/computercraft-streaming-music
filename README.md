@@ -9,6 +9,8 @@ To update from the original version, run `delete music` first.
 **Run:** `music`
 
 ## Improvements by Kylomask!
+> [!IMPORTANT]  
+> We dont bring backend improvements, only frontend.
 
 - Colors! Get your advanced computers and make em shine!
 - Queue Modification: You can now reorder and delete queue elements!
