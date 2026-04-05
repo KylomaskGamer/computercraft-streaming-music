@@ -2,7 +2,7 @@
 
 **Version:** 2.1
 
-**Install:** `pastebin get ???????? music`
+**Install:** `pastebin get bY3XVayb music`
 
 To update from the original version, run `delete music` first.
 
