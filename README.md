@@ -2,12 +2,19 @@
 
 **Version:** 2.1
 
-**Install:** `pastebin get Rc1PCzLH music`
+**Install:** `pastebin get ???????? music`
 
 To update from the original version, run `delete music` first.
 
 **Run:** `music`
 
+## Improvements by Kylomask!
+
+- Colors! Get your advanced computers and make em shine!
+- Queue Modification: You can now reorder and delete queue elements!
+- Scroll on Search: An awaited feature by me. You can now SCROLL DOWN for more results!
+- Playlists: Save queues for later! (theyre in `.mpl`)
+  
 ## How to use
 
 1. Install the [CC: Tweaked](https://tweaked.cc/) mod to your world/server. Make sure you're using version 1.100.0 of the mod (released December 2021) or newer, or it won't work.
